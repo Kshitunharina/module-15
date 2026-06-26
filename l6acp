@@ -1,0 +1,23 @@
+# 1. Student Exam Scores
+
+# A school wants to know the average mathematics score of all students. Instead of checking every student, it selects many random groups of 30 students and calculates the average score for each group. Even if individual scores are not normally distributed, the distribution of these sample averages becomes approximately normal.
+
+# 2. Heights of People
+
+# Suppose we measure the heights of people in a city. By taking many random samples of 50 people and calculating the average height of each sample, the sample means will form a bell-shaped (normal) distribution. This helps estimate the true average height of the city's population.
+
+# 3. Factory Bulb Lifetimes
+
+# A factory produces thousands of light bulbs. The lifetime of individual bulbs may vary widely. If quality inspectors repeatedly select random samples of 40 bulbs and calculate the average lifetime, those averages will follow a normal distribution, making it easier to monitor product quality.
+
+# 4. Daily Sales of a Store
+
+# A supermarket records the total sales made by customers each day. Individual customer purchases can vary greatly, but if the store repeatedly samples groups of customers and computes the average purchase amount, the sample averages will be approximately normally distributed. This helps predict average daily sales.
+
+# 5. Average Rainfall
+
+# A weather department records rainfall over many days. Rainfall on individual days may be highly irregular. However, if meteorologists repeatedly take samples of several days and calculate the average rainfall for each sample, the distribution of those averages approaches a normal distribution, allowing better forecasting and analysis.
+
+# Conclusion
+
+# The Central Limit Theorem states that when we take sufficiently large random samples from a population, the distribution of the sample means becomes approximately normal, regardless of the original population's distribution. This makes it possible to estimate population characteristics using sample data.
